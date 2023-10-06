@@ -1,0 +1,16 @@
+header{
+    background-color: lightblue;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+}
+
+.navbar li a{
+    text-decoration: none;
+    color: blue;
+}
